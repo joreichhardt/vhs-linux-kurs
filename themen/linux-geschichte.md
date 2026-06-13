@@ -25,6 +25,6 @@ Linux laeuft nicht nur auf klassischen PCs:
 - Embedded-Geraete
 - Steam Deck
 
-## Kursbotschaft
+## Merksatz
 
 Linux ist kein Nischenprojekt mehr. Viele Menschen nutzen Linux indirekt jeden Tag, oft ohne es zu merken.

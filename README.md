@@ -1,70 +1,58 @@
 # Linux installieren und verstehen
 
-Materialien fuer einen Mitmach-Workshop der Volkshochschule Kronach.
+Unterrichtsmaterialien fuer den VHS-Kurs **Linux installieren und verstehen: Digital souverän starten**.
 
-## Kursidee
+Dieses Repository begleitet den Kurs. Hier finden Sie Themenblaetter, Checklisten, Links und spaeter auch kleine Hilfsskripte. Die Materialien sind so gedacht, dass Sie waehrend des Unterrichts mitlesen und nach dem Kurs zu Hause weiterarbeiten koennen.
 
-In diesem Kurs installieren die Teilnehmerinnen und Teilnehmer Ubuntu Linux auf dem eigenen Laptop oder als sichere Alternative in VirtualBox. Danach lernen sie Linux als alltagstaugliches Betriebssystem kennen und ordnen es im Kontext digitaler Souveraenitaet ein.
+## Worum geht es?
 
-Der Kurs richtet sich an Einsteigerinnen und Einsteiger, besonders an Windows-Nutzerinnen und Windows-Nutzer ohne Linux-Vorkenntnisse.
+Wir installieren Ubuntu Linux auf dem eigenen Laptop oder nutzen VirtualBox als sichere Alternative. Danach lernen wir Linux Schritt fuer Schritt kennen:
 
-## Arbeitstitel
+- Was ist ein Betriebssystem?
+- Worin unterscheiden sich Windows, macOS und Linux?
+- Was bedeutet digitale Souveraenitaet im Alltag?
+- Wie installiert und aktualisiert man Programme?
+- Welche Linux-Programme ersetzen typische Windows-Programme?
+- Welche Installationsart passt zum eigenen Geraet?
 
-**Linux installieren und verstehen: Digital souverän starten**
+Der Kurs richtet sich an Einsteigerinnen und Einsteiger. Linux-Vorkenntnisse sind nicht erforderlich.
 
-Alternative Titel:
-
-- **Linux ohne Risiko: Einstieg in freie Betriebssysteme**
-- **Digital souverän mit Linux**
-- **Ubuntu installieren und verstehen**
-- **Raus aus der Blackbox: Linux praktisch kennenlernen**
-
-## Kursformat
-
-- Mitmach-Workshop
-- 4 bis 6 Termine
-- je Termin: 2 x 45 Minuten
-- eigener Laptop erforderlich
-- echte Installation moeglich
-- VirtualBox als offizieller Ausweichpfad
-
-## Installationspfade
-
-Im Kurs gibt es drei Wege:
-
-1. **Ubuntu ersetzt das vorhandene System**
-   - geeignet fuer ungenutzte Laptops
-   - einfachster echter Installationsweg
-
-2. **Dual Boot mit Windows**
-   - Ubuntu wird neben Windows installiert
-   - nur mit Backup, freiem Speicher und gesichertem BitLocker-Recovery-Key
-
-3. **Ubuntu in VirtualBox**
-   - sicherer Ausweichpfad
-   - geeignet fuer produktiv genutzte Geraete oder unsichere Ausgangslagen
-
-## Voraussetzungen fuer Teilnehmer
-
-Bitte mitbringen:
+## Bitte zum Kurs mitbringen
 
 - eigener Laptop
 - Netzteil
-- 64-Bit-Prozessor
-- mindestens 8 GB RAM
+- USB-Stick mit mindestens 16 GB, der geloescht werden darf
 - funktionierendes WLAN
-- USB-Stick mit mindestens 16 GB
-- ausreichend freier Speicherplatz
 - Administratorrechte auf dem Geraet
 
-Fuer Dual Boot zusaetzlich:
+Der Laptop sollte haben:
 
-- vollstaendiges Backup wichtiger Daten
-- mindestens 80 bis 100 GB freier Speicherplatz
-- BitLocker-Recovery-Key gesichert, falls BitLocker aktiv ist
-- kein Firmen- oder Schulgeraet ohne ausdrueckliche Freigabe
+- 64-Bit-Prozessor
+- mindestens 8 GB RAM
+- ausreichend freien Speicherplatz
 
-## Themen
+Wenn Ubuntu neben Windows installiert werden soll:
+
+- vorher ein vollstaendiges Backup wichtiger Daten erstellen
+- mindestens 80 bis 100 GB freien Speicherplatz einplanen
+- BitLocker-Recovery-Key sichern, falls BitLocker aktiv ist
+- kein Firmen- oder Schulgeraet ohne ausdrueckliche Freigabe verwenden
+
+## Drei Wege im Kurs
+
+### Ubuntu ersetzt das vorhandene System
+
+Das ist der einfachste Weg fuer ungenutzte Laptops. Das bisherige System und vorhandene Daten werden dabei geloescht.
+
+### Ubuntu neben Windows
+
+Bei Dual Boot bleiben Windows und Ubuntu auf demselben Laptop. Beim Start des Geraets kann ausgewaehlt werden, welches System genutzt wird. Dieser Weg braucht Vorbereitung und ein Backup.
+
+### Ubuntu in VirtualBox
+
+VirtualBox ist die sichere Alternative. Ubuntu laeuft dann in einem Fenster innerhalb des vorhandenen Systems. Das ist besonders sinnvoll, wenn eine echte Installation zu riskant ist.
+
+## Themen im Unterricht
 
 - [Digitale Souveraenitaet](themen/digitale-souveraenitaet.md)
 - [Windows, macOS und Linux im Vergleich](themen/windows-macos-linux.md)
@@ -77,44 +65,44 @@ Fuer Dual Boot zusaetzlich:
 - [Linux privat nutzen](themen/privat-nutzen.md)
 - [Fun Facts zu Linux](themen/fun-facts.md)
 
-## Vorlaeufiger Ablauf fuer 6 Termine
+## Ablauf
 
-### Termin 1: Installation starten
+### Termin 1: Ubuntu installieren
 
 - Kursziel und Sicherheitsregeln
-- Installationspfade klaeren
+- Installationsweg auswaehlen
 - Ubuntu herunterladen
 - USB-Stick erstellen
 - Live-System starten
-- echte Installation, Dual Boot oder VirtualBox beginnen
+- Installation auf dem Laptop, neben Windows oder in VirtualBox beginnen
 
-### Termin 2: Installation abschliessen und erste Schritte
+### Termin 2: Erste Schritte
 
 - Installation abschliessen
 - Updates einspielen
 - GNOME-Oberflaeche kennenlernen
 - Dateien, Einstellungen, Netzwerk
 
-### Termin 3: Digitale Souveraenitaet und Betriebssysteme
+### Termin 3: Betriebssysteme verstehen
 
 - Was ist ein Betriebssystem?
 - Windows, macOS und Linux vergleichen
-- Konten, Updates, Telemetrie, Abhaengigkeiten
+- Konten, Updates, Telemetrie und Herstellerbindung
 - freie Software und offene Standards
 
 ### Termin 4: Linux verstehen
 
-- Linux, GNU, Distributionen
+- Linux, GNU und Distributionen
 - Ubuntu und LTS-Versionen
-- GNOME, KDE, Xfce, LXQt
-- Paketquellen, App Center, Terminal-Grundidee
+- GNOME, KDE, Xfce und LXQt
+- Paketquellen, App Center und Terminal-Grundidee
 
 ### Termin 5: Alltag mit Linux
 
-- Browser, Mail, Office
-- Fotos, PDF, Medien
+- Browser, Mail und Office
+- Fotos, PDF und Medien
 - Software installieren und entfernen
-- Drucker, Scanner, externe Datentraeger
+- Drucker, Scanner und externe Datentraeger
 - Backups
 
 ### Termin 6: Sicher weiterarbeiten
@@ -125,13 +113,12 @@ Fuer Dual Boot zusaetzlich:
 - persoenliche Umstiegsstrategie
 - offene Fragen und Fehlerbehebung
 
-## Repository-Struktur
+## Ordner
 
-- `README.md`: Ueberblick und Kursstruktur
-- `themen/`: einzelne Kursmodule als Markdown-Dateien
-- `scripts/`: Hilfsskripte fuer Kursvorbereitung und Demos
-- `materialien/`: Handouts, Checklisten und Zusatzmaterial
+- `themen/`: Unterrichtsthemen und Erklaerungen
+- `materialien/`: Checklisten, Handouts und Zusatzmaterial
+- `scripts/`: Hilfsskripte fuer Demos und Kursvorbereitung
 
-## Hinweis zum Git-Repository
+## Wichtiger Hinweis
 
-Dieses Verzeichnis ist als oeffentliches Kurs-Repository gedacht, damit Teilnehmerinnen und Teilnehmer Materialien, Links und Skripte leicht abrufen koennen.
+Eine echte Installation veraendert den Laptop. Wer unsicher ist oder kein Backup hat, nutzt im Kurs VirtualBox. So kann Ubuntu ohne Risiko ausprobiert werden.

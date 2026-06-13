@@ -27,6 +27,6 @@ Ubuntu nutzte lange Unity als eigene Desktop-Oberflaeche. Seit Ubuntu 17.10 ist 
 - LXQt: sehr ressourcenschonend
 - Cinnamon: klassisch, bekannt durch Linux Mint
 
-## Kursentscheidung
+## In diesem Kurs
 
 Im Kurs wird normales Ubuntu mit GNOME genutzt. Andere Desktop-Umgebungen werden als Vergleich gezeigt, aber nicht als Hauptpfad betreut.

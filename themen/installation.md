@@ -69,6 +69,6 @@ Empfohlen:
 - darf geloescht werden
 - fuer die Erstellung des Installationsmediums reservieren
 
-## Kursregel
+## Wichtig
 
 Wenn die Ausgangslage unsicher ist, wird VirtualBox genutzt. Eine echte Installation ist nur sinnvoll, wenn Backup und Risiken geklaert sind.

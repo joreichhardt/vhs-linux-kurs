@@ -28,6 +28,6 @@
 - Einstellungen: Netzwerk, Bildschirm, Benutzer, Datenschutz
 - Terminal: Werkzeug fuer gezielte Befehle
 
-## Kursbotschaft
+## Merksatz
 
 Viele Alltagsaufgaben funktionieren unter Linux ohne Spezialwissen. Entscheidend ist, Programme ueber vertrauenswuerdige Quellen zu installieren.

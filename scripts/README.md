@@ -1,8 +1,8 @@
-# Skripte
+# Skripte fuer den Unterricht
 
-Hier koennen spaeter Hilfsskripte fuer Kursvorbereitung und Demos abgelegt werden.
+Hier liegen Hilfsskripte fuer Kursvorbereitung und Demos. Skripte werden im Unterricht gemeinsam besprochen, bevor sie ausgefuehrt werden.
 
-Moegliche Beispiele:
+Vorgesehene Beispiele:
 
 - Hardwareinformationen sammeln
 - Ubuntu-ISO-Pruefsumme vergleichen

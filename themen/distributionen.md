@@ -21,6 +21,6 @@ Eine Distribution kombiniert Linux-Kernel, Systemwerkzeuge, Paketverwaltung, Des
 - Lubuntu: LXQt
 - Ubuntu MATE: MATE
 
-## Kursentscheidung
+## In diesem Kurs
 
 Im Kurs wird Ubuntu mit GNOME genutzt. Andere Distributionen und Varianten werden erklaert, aber nicht parallel installiert.

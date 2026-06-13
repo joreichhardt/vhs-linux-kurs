@@ -46,6 +46,6 @@ PowerShell als Administrator:
 Suspend-BitLocker -MountPoint "C:" -RebootCount 2
 ```
 
-## Kursregel
+## Wichtig
 
 Dual Boot nur, wenn der BitLocker-Recovery-Key vorliegt. Ohne Key wird VirtualBox genutzt oder auf einem ungenutzten Geraet installiert.
