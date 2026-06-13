@@ -1,8 +1,20 @@
 # Linux installieren und verstehen
 
+**Kursname:** Linux installieren und verstehen: Digital souverän starten
+
 Unterrichtsmaterialien fuer den VHS-Kurs **Linux installieren und verstehen: Digital souverän starten**.
 
 Dieses Repository begleitet den Kurs. Hier finden Sie Themenblaetter, Checklisten, Links und spaeter auch kleine Hilfsskripte. Die Materialien sind so gedacht, dass Sie waehrend des Unterrichts mitlesen und nach dem Kurs zu Hause weiterarbeiten koennen.
+
+## Beschreibung fuer die VHS-Ausschreibung
+
+Linux ist eine freie Alternative zu Windows und macOS und laeuft auf vielen privaten Computern, Servern, Smartphones, Routern und Alltagsgeraeten. In diesem Mitmach-Workshop installieren Sie Ubuntu Linux auf dem eigenen Laptop oder nutzen VirtualBox als sichere Alternative. Schritt fuer Schritt lernen Sie, wie Linux aufgebaut ist, wie Programme installiert werden, welche Unterschiede es zu Windows und macOS gibt und was digitale Souveraenitaet im Alltag bedeutet.
+
+Der Kurs richtet sich an Einsteigerinnen und Einsteiger ohne Linux-Vorkenntnisse. Sie erfahren, welche Rolle freie Software, offene Standards, Updates, Benutzerrechte und Datenschutz spielen. Neben der praktischen Installation geht es auch um typische Alltagsaufgaben: Internet, E-Mail, Office, Dateien, Fotos, PDF, Softwareverwaltung und sichere Systempflege.
+
+Wer moechte, kann Ubuntu direkt auf einem geeigneten Laptop installieren oder neben Windows im Dual Boot einrichten. Wenn eine direkte Installation zu riskant ist, wird Ubuntu in VirtualBox installiert. Fuer Dual Boot oder eine echte Installation sollten wichtige Daten vorher gesichert sein.
+
+Bitte bringen Sie einen eigenen Laptop mit Netzteil sowie einen USB-Stick mit mindestens 16 GB mit. Der Laptop sollte einen 64-Bit-Prozessor, mindestens 8 GB Arbeitsspeicher, funktionierendes WLAN und ausreichend freien Speicherplatz besitzen. Administratorrechte auf dem Geraet sind erforderlich.
 
 ## Worum geht es?
 
