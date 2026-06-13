@@ -1,0 +1,21 @@
+# Betriebssysteme und Editoren
+.DS_Store
+Thumbs.db
+*~
+
+# Downloads und Images nicht ins Repository legen
+*.iso
+*.img
+*.ova
+*.ovf
+
+# VirtualBox / VM-Artefakte
+*.vdi
+*.vbox
+*.vbox-prev
+*.vmdk
+VirtualBox VMs/
+
+# temporaere Arbeitsdateien
+tmp/
+*.log
