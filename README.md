@@ -14,7 +14,7 @@ Der Kurs richtet sich an Einsteigerinnen und Einsteiger ohne Linux-Vorkenntnisse
 
 Wer moechte, kann Ubuntu direkt auf einem geeigneten Laptop installieren oder neben Windows im Dual Boot einrichten. Wenn eine direkte Installation zu riskant ist, wird Ubuntu in VirtualBox installiert. Fuer Dual Boot oder eine echte Installation sollten wichtige Daten vorher gesichert sein.
 
-Bitte bringen Sie einen eigenen Laptop mit Netzteil sowie einen USB-Stick mit mindestens 16 GB mit. Der Laptop sollte einen 64-Bit-Prozessor, mindestens 8 GB Arbeitsspeicher, funktionierendes WLAN und ausreichend freien Speicherplatz besitzen. Administratorrechte auf dem Geraet sind erforderlich.
+Bitte bringen Sie einen eigenen Laptop mit Netzteil sowie einen USB-Stick mit mindestens 16 GB mit. Der Laptop sollte einen 64-Bit-Prozessor, mindestens 8 GB Arbeitsspeicher, eine Internetverbindung per WLAN oder Netzwerkkabel und ausreichend freien Speicherplatz besitzen. Administratorrechte auf dem Geraet sind erforderlich.
 
 ## Worum geht es?
 
@@ -34,7 +34,7 @@ Der Kurs richtet sich an Einsteigerinnen und Einsteiger. Linux-Vorkenntnisse sin
 - eigener Laptop
 - Netzteil
 - USB-Stick mit mindestens 16 GB, der geloescht werden darf
-- funktionierendes WLAN
+- Internetverbindung per WLAN oder Netzwerkkabel
 - Administratorrechte auf dem Geraet
 
 Der Laptop sollte haben:
